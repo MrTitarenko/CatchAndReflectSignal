@@ -84,12 +84,12 @@ class Main {
         List<Tree> treeList = new ArrayList<>(numTrees * 2);
         for (int i = 1; i <= numTrees; i++) {
             String nextLine = bufferedReader.readLine();
-            if (nextLine != null && nextLine.matches("\\d+\\s+-?\\d+\\s+\\d+")) {
+            if (nextLine != null && nextLine.matches("(-?\\d+\\s+){2}\\d+")) {
                 StringTokenizer stringTokenizer = new StringTokenizer(nextLine);
                 int x0 = Integer.parseInt(stringTokenizer.nextToken());
                 int y0 = Integer.parseInt(stringTokenizer.nextToken());
                 int r = Integer.parseInt(stringTokenizer.nextToken());
-                if (x0 <= X_2 && r <= X_2 / 2) {
+                if (x0 >= 0 && x0 <= X_2 && r <= X_2 / 2) {
                     treeList.add(new Tree(x0, y0, r));
                 } else {
                     LOGGER.log(Level.SEVERE, "Invalid coordinates in row " + (i + 1));
