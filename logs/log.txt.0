@@ -1,0 +1,820 @@
+фев 19, 2017 12:18:36 PM Main readFirstLine
+SEVERE: Signal: (0;40). Threes: 5
+фев 19, 2017 12:18:36 PM Main getTrees
+SEVERE: There are 5 trees between walls.
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 0: (100;0). Line: y = -0.4 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -8372.000000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1447.840000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 1871.9999999999964
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 1: (100;1). Line: y = -0.39 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -8262.719999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1370.4004000000004
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 1717.0700000000033
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 2: (100;2). Line: y = -0.38 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -8154.080000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1294.4655999999995
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 1559.4799999999996
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 3: (100;3). Line: y = -0.37 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -8046.079999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1220.0356000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 1399.2299999999996
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 4: (100;4). Line: y = -0.36 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7938.72
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1147.1103999999978
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 1236.3199999999997
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 5: (100;5). Line: y = -0.35 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7832.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1075.6900000000005
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 1070.75
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 6: (100;6). Line: y = -0.34 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7725.919999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1005.7744000000012
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 902.5200000000004
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 7: (100;7). Line: y = -0.33 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7620.4800000000005
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -937.3635999999997
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 731.630000000001
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 8: (100;8). Line: y = -0.32 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7515.680000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -870.4575999999997
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 558.0799999999981
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 9: (100;9). Line: y = -0.31 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7411.52
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -805.0563999999995
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 381.869999999999
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 10: (100;10). Line: y = -0.3 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7308.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -741.1599999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 202.99999999999636
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 11: (100;11). Line: y = -0.29 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7205.120000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -678.7684000000017
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 21.469999999997526
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 12: (100;12). Line: y = -0.28 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7102.880000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -617.8816000000006
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -162.72000000000116
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -22133.440000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1575.6800000000003
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 13: (100;13). Line: y = -0.27 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7001.280000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -558.499600000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -349.5699999999997
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -21684.639999999996
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1437.079999999998
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 14: (100;14). Line: y = -0.26 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6900.3200000000015
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -500.6223999999993
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -539.0800000000017
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -21240.160000000003
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1303.520000000004
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 15: (100;15). Line: y = -0.25 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6800.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -444.25
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -731.25
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -20800.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1175.0
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 16: (100;16). Line: y = -0.24 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6700.3200000000015
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -389.3824000000013
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -926.0800000000017
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -20364.160000000003
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1051.520000000004
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 17: (100;17). Line: y = -0.23 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6601.28
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -336.0195999999987
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1123.5699999999997
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -19932.639999999996
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -933.0799999999981
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 18: (100;18). Line: y = -0.22 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6502.880000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -284.16160000000036
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1323.7200000000012
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -19505.440000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -819.6800000000003
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 19: (100;19). Line: y = -0.21 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6405.120000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -233.8083999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1526.5299999999988
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -19082.559999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -711.3199999999997
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 20: (100;20). Line: y = -0.2 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6308.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -184.96000000000004
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1732.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -18664.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -608.0
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 21: (100;21). Line: y = -0.19 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6211.5199999999995
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -137.6164000000017
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1940.130000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -18249.760000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -509.72000000000116
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 22: (100;22). Line: y = -0.18 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6115.68
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -91.77759999999944
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2150.9199999999983
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -17839.84
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -416.47999999999956
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 23: (100;23). Line: y = -0.17 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -6020.48
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -47.443599999999606
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2364.369999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -17434.239999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -328.27999999999884
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 24: (100;24). Line: y = -0.16 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5925.920000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4.614399999999478
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2580.480000000003
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -17032.96
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -245.12000000000262
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 25: (100;25). Line: y = -0.15 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5832.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 36.710000000000036
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 26: (100;26). Line: y = -0.14 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5738.719999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 76.52959999999894
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 27: (100;27). Line: y = -0.13 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5646.08
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 114.84440000000086
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 28: (100;28). Line: y = -0.12 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5554.08
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 151.65439999999944
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 29: (100;29). Line: y = -0.11 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5462.720000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 186.95960000000105
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 30: (100;30). Line: y = -0.1 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5372.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 220.76000000000022
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 31: (100;31). Line: y = -0.09 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5281.919999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 253.05559999999878
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 32: (100;32). Line: y = -0.08 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5192.48
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 283.84640000000036
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 33: (100;33). Line: y = -0.07 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5103.679999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 313.1324000000004
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 34: (100;34). Line: y = -0.06 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5015.52
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 340.91359999999986
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 35: (100;35). Line: y = -0.05 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4928.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 367.1900000000005
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 36: (100;36). Line: y = -0.04 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4841.12
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 391.9615999999987
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 37: (100;37). Line: y = -0.03 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4754.879999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 415.2284000000009
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 38: (100;38). Line: y = -0.02 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4669.28
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 436.9903999999997
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 39: (100;39). Line: y = -0.01 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4584.32
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 457.2476000000015
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 40: (100;40). Line: y = 0.0 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4500.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 476.0
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 41: (100;41). Line: y = 0.01 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4416.32
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 493.2475999999997
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 42: (100;42). Line: y = 0.02 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4333.28
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 508.9904000000015
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 43: (100;43). Line: y = 0.03 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4250.879999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 523.2284
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 44: (100;44). Line: y = 0.04 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4169.120000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 535.9616000000005
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 45: (100;45). Line: y = 0.05 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4088.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 547.1900000000005
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 46: (100;46). Line: y = 0.06 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4007.5200000000004
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 556.913599999998
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 47: (100;47). Line: y = 0.07 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3927.6799999999985
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 565.1324000000004
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 48: (100;48). Line: y = 0.08 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3848.4799999999996
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 571.8463999999994
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 49: (100;49). Line: y = 0.09 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3769.92
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 577.0556000000015
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 50: (100;50). Line: y = 0.1 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3692.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 580.7600000000002
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 51: (100;51). Line: y = 0.11 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3614.7200000000003
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 582.9595999999992
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 52: (100;52). Line: y = 0.12 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3538.079999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 583.6544000000004
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 53: (100;53). Line: y = 0.13 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3462.08
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 582.844399999999
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 54: (100;54). Line: y = 0.14 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3386.7200000000003
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 580.5296000000008
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 55: (100;55). Line: y = 0.15 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3312.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 576.71
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 56: (100;56). Line: y = 0.16 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3237.92
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 571.3855999999987
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 57: (100;57). Line: y = 0.17 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3164.4799999999996
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 564.5564000000022
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 58: (100;58). Line: y = 0.18 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3091.680000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 556.2223999999997
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 59: (100;59). Line: y = 0.19 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3019.5200000000004
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 546.3836000000001
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 60: (100;60). Line: y = 0.2 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2948.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 535.04
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 61: (100;61). Line: y = 0.21 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2877.120000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 522.1915999999992
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 62: (100;62). Line: y = 0.22 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2806.88
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 507.83840000000055
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 63: (100;63). Line: y = 0.23 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2737.2800000000007
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 491.98039999999946
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 64: (100;64). Line: y = 0.24 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2668.3200000000015
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 474.6175999999996
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 65: (100;65). Line: y = 0.25 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2600.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 455.75
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 66: (100;66). Line: y = 0.26 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2532.3200000000006
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 435.377599999998
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 67: (100;67). Line: y = 0.27 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2465.279999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 413.5004000000008
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 68: (100;68). Line: y = 0.28 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2398.880000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 390.1183999999994
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 69: (100;69). Line: y = 0.29 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2333.1200000000017
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 365.231600000001
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 70: (100;70). Line: y = 0.3 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2268.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 338.84000000000015
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 71: (100;71). Line: y = 0.31 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2203.5199999999995
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 310.9435999999987
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 72: (100;72). Line: y = 0.32 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2139.6799999999994
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 281.54240000000027
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 73: (100;73). Line: y = 0.33 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2076.4800000000014
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 250.6363999999994
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 74: (100;74). Line: y = 0.34 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -2013.9199999999992
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 218.22560000000158
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 75: (100;75). Line: y = 0.35 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1952.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 184.3099999999995
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 76: (100;76). Line: y = 0.36 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1890.7199999999993
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 148.88960000000043
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 77: (100;77). Line: y = 0.37 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1830.079999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 111.96440000000075
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 78: (100;78). Line: y = 0.38 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1770.0800000000027
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 73.53439999999864
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 79: (100;79). Line: y = 0.39 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1710.7199999999993
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 33.599600000001374
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 80: (100;80). Line: y = 0.4 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1652.0000000000018
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -7.8400000000019645
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -18928.000000000004
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1456.0000000000073
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3632.0000000000036
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 81: (100;81). Line: y = 0.41 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1593.9199999999983
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -50.78440000000046
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -19295.73
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1300.9599999999991
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -3836.119999999999
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 82: (100;82). Line: y = 0.42 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1536.4799999999977
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -95.23359999999775
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -19666.12
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1150.239999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4045.279999999999
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 83: (100;83). Line: y = 0.43 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1479.6800000000012
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -141.1876000000011
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -20039.170000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1003.8400000000038
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4259.480000000003
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 84: (100;84). Line: y = 0.44 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1423.5200000000004
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -188.64639999999963
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -20414.88
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -861.7599999999948
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4478.720000000001
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 85: (100;85). Line: y = 0.45 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1368.0000000000018
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -237.61000000000058
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -20793.250000000004
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -724.0000000000073
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4703.000000000004
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 86: (100;86). Line: y = 0.46 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1313.1200000000008
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -288.07840000000215
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -21174.28
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -590.5599999999977
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -4932.32
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 87: (100;87). Line: y = 0.47 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1258.8799999999974
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -340.05159999999887
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -21557.969999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -461.4400000000023
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5166.679999999997
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 88: (100;88). Line: y = 0.48 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1205.2800000000007
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -393.52959999999985
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -21944.32
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -336.63999999999214
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5406.079999999998
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 89: (100;89). Line: y = 0.49 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1152.3199999999997
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -448.5123999999996
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -22333.329999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -216.1600000000035
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5650.52
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 90: (100;90). Line: y = 0.5 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1100.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -505.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -22725.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -100.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -5900.0
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 91: (100;91). Line: y = 0.51 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1048.3199999999997
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -562.992400000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -23119.33
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 11.839999999996508
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 92: (100;92). Line: y = 0.52 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -997.2799999999988
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -622.489599999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -23516.32
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 119.36000000000058
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 93: (100;93). Line: y = 0.53 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -946.880000000001
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -683.4915999999994
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -23915.969999999998
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 222.56000000001222
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 94: (100;94). Line: y = 0.54 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -897.119999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -745.9983999999986
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -24318.280000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 321.43999999999505
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 95: (100;95). Line: y = 0.55 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -848.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -810.0100000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -24723.25
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 416.0
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 96: (100;96). Line: y = 0.56 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -799.5200000000004
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -875.5264000000025
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -25130.88
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 506.24000000000524
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 97: (100;97). Line: y = 0.57 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -751.6799999999985
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -942.5475999999999
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -25541.17
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 592.1599999999962
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 98: (100;98). Line: y = 0.58 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -704.4800000000014
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1011.0736000000015
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -25954.12
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 673.760000000002
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 99: (100;99). Line: y = 0.59 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -657.9200000000019
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1081.1044000000002
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -26369.730000000003
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 751.0399999999863
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: Point 100: (100;100). Line: y = 0.6 * x + 40.0
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -611.9999999999982
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -1152.6399999999994
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = -26787.999999999996
+фев 19, 2017 12:18:36 PM Main discriminant
+SEVERE: Discriminant = 824.0000000000073
+фев 19, 2017 12:18:36 PM Main getPoints
+SEVERE: We have got 24 points.
