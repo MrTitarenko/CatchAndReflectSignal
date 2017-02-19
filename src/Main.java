@@ -67,7 +67,7 @@ class Main {
 
     private static Integer readFirstLine() throws IOException {
         String firstLine = bufferedReader.readLine();
-        if (firstLine.matches("\\d+\\s\\d+")) {
+        if (firstLine.matches("\\d+\\s+\\d+")) {
             StringTokenizer stringTokenizer = new StringTokenizer(firstLine);
             y1 = Integer.parseInt(stringTokenizer.nextToken());
             int numTrees = Integer.parseInt(stringTokenizer.nextToken());
@@ -84,7 +84,7 @@ class Main {
         List<Tree> treeList = new ArrayList<>(numTrees * 2);
         for (int i = 1; i <= numTrees; i++) {
             String nextLine = bufferedReader.readLine();
-            if (nextLine != null && nextLine.matches("\\d+\\s-?\\d+\\s\\d+")) {
+            if (nextLine != null && nextLine.matches("\\d+\\s+-?\\d+\\s+\\d+")) {
                 StringTokenizer stringTokenizer = new StringTokenizer(nextLine);
                 int x0 = Integer.parseInt(stringTokenizer.nextToken());
                 int y0 = Integer.parseInt(stringTokenizer.nextToken());
