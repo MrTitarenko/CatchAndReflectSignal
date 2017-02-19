@@ -54,6 +54,11 @@ class Main {
                 }
             } catch (IOException e) {
                 LOGGER.log(Level.WARNING, e.getMessage());
+            } finally {
+                try {
+                    bufferedReader.close();
+                } catch (IOException ignored) {
+                }
             }
         } else {
             LOGGER.log(Level.SEVERE, "Wrong arguments!");
