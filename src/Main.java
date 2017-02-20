@@ -2,6 +2,8 @@
 import com.sun.org.apache.xml.internal.serialize.LineSeparator;
 
 import java.io.*;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
@@ -15,7 +17,6 @@ class Main {
     private static final int WALL_LENGTH = 100;
 
     private static int y1;
-    private static double k, b;
 
     private static BufferedReader bufferedReader;
     private static List<Tree> treeList;
@@ -89,7 +90,7 @@ class Main {
                 int x0 = Integer.parseInt(stringTokenizer.nextToken());
                 int y0 = Integer.parseInt(stringTokenizer.nextToken());
                 int r = Integer.parseInt(stringTokenizer.nextToken());
-                if (x0 >= 0 && x0 <= X_2 && r <= X_2 / 2) {
+                if (x0 >= 0 && x0 <= X_2) {
                     treeList.add(new Tree(x0, y0, r));
                 } else {
                     LOGGER.log(Level.SEVERE, "Invalid coordinates in row " + (i + 1));
@@ -107,13 +108,14 @@ class Main {
         List<Integer> pointsList = new ArrayList<>(WALL_LENGTH * 2);
         for (int y2 = 0; y2 <= WALL_LENGTH; y2++) {
             cross = false;
-            k = ((double) y2 - y1) / (X_2 - X_1);
-            b = y1 - X_1 * k;
+            double k = ((double) y2 - y1) / (X_2 - X_1);
+            double b = y1 - X_1 * k;
             LOGGER.log(Level.SEVERE,
                     "Point " + y2 + ": (" + X_2 + ";" + y2 + "). " +
                             "Line: y = " + k + " * x " + (b < 0 ? b : "+ " + b));
+
             for (Tree tree : treeList) {
-                if (discriminant(tree) >= 0) {
+                if (discriminant(tree, k, b) >= 0) {
                     cross = true;
                     break;
                 }
@@ -126,10 +128,10 @@ class Main {
         return pointsList;
     }
 
-    private static double discriminant(Tree tree) {
+    private static double discriminant(Tree tree, double k, double b) {
         double d = 4 * (Math.pow(k * (b - tree.getY0()) - tree.getX0(), 2) - (1 + k * k) *
                 (Math.pow(tree.getX0(), 2) - Math.pow(tree.getR(), 2) + Math.pow(b - tree.getY0(), 2)));
-        LOGGER.log(Level.SEVERE, "Discriminant = " + d);
+        LOGGER.log(Level.SEVERE, "Discriminant for " + tree + " = " + String.format("%.2f", d));
         return d;
     }
 
@@ -154,6 +156,15 @@ class Main {
 
         int getR() {
             return r;
+        }
+
+        @Override
+        public String toString() {
+            return "Tree{" +
+                    "x0=" + x0 +
+                    ", y0=" + y0 +
+                    ", r=" + r +
+                    '}';
         }
     }
 }
